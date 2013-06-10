@@ -12,6 +12,8 @@ Restores default WordPress widgets unregistered by themes and plugins.
 
 Some themes and plugins unregister WordPress's default widgets, usually to replace them with enhanced versions. However, there are cases in which you may want to use the original widgets. This plugin simply re-registers all default widgets.
 
+You can follow on [GitHub](https://github.com/stevengliebe/restore-default-widgets).
+
 == Installation ==
 
 Please see [Installing Plugins](http://codex.wordpress.org/Managing_Plugins#Installing_Plugins) in the WordPress Codex.
