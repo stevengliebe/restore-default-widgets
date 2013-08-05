@@ -3,7 +3,7 @@ Contributors: stevengliebe
 Tags: widgets, admin, restore, register, default
 Requires at least: 3.5
 Tested up to: 3.6
-Stable tag: 1.0
+Stable tag: trunk
 License: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
 Restores default WordPress widgets unregistered by themes and plugins.
