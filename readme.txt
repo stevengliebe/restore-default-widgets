@@ -22,5 +22,4 @@ No configuration is necessary. All default widgets are automatically re-register
 
 == Changelog ==
 
-= 1.0 =
-* First release
+See [releases](https://github.com/stevengliebe/restore-default-widgets/releases) on GitHub.
