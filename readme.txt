@@ -2,7 +2,7 @@
 Contributors: stevengliebe
 Tags: widgets, admin, restore, register, default
 Requires at least: 3.5
-Tested up to: 3.7
+Tested up to: 3.8
 Stable tag: trunk
 License: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
